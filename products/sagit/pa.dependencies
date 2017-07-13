@@ -1,0 +1,38 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "TheStrix/pa_device_xiaomi_sagit",
+        "target_path":  "device/xiaomi/sagit",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "MoKee/android_kernel_xiaomi_msm8998",
+        "target_path":  "kernel/xiaomi/msm8998",
+        "revision":     "mkn-mr1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "TheStrix/priv_vendor_xiaomi_sagit",
+        "target_path":  "vendor/xiaomi/sagit",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "nougat-mr2-8998"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "nougat-mr2-8998"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "nougat-mr2-8998"
+    }
+]
