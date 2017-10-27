@@ -1,8 +1,8 @@
 [
     {
         "remote":       "github",
-        "repository":   "33bca/aospa_android_device_xiaomi_gemini",
-        "target_path":  "device/xiaomi/gemini",
+        "repository":   "33bca/aospa_android_device_xiaomi_capricorn",
+        "target_path":  "device/xiaomi/capricorn",
         "revision":     "nougat-mr2"
     },{
         "remote":       "github",
